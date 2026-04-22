@@ -1,0 +1,16 @@
+# IFC building models are archived separately (too large for GitHub)
+*.ifc
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
