@@ -29,7 +29,8 @@ Institute (GNI).
   — semester-long team assignments that produce an architectural and a
   structural model of the same building.
 
-All models are released with the authors' consent for research use.
+All models are released with the authors' consent under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
 
 ## Anonymization
 
@@ -64,12 +65,16 @@ of rarer MEP, furnishing, and assembly entities.
 
 ## License and disclaimer
 
-Released under the MIT License (see `LICENSE`). The models come from student
-coursework and are provided **as is**, with no warranty of correctness,
-completeness, or fitness for any particular purpose. The authors and TUM are
-not responsible for the modeling content itself — including any third-party
-product families embedded by the original BIM authoring tools — and do not
-claim that the geometry or semantics meet any engineering standard.
+The dataset contents are licensed under CC BY 4.0 (see
+`LICENSE`). The anonymization scripts in `code/` are licensed under the MIT
+License (see `code/LICENSE`).
+
+The models come from student coursework and are provided **as is**, with no
+warranty of correctness, completeness, or fitness for any particular purpose.
+The authors and TUM are **not responsible** for the modeling content itself --
+including any third-party product families embedded by the original BIM
+authoring tools -- and do not claim that the geometry or semantics meet any
+engineering standard.
 
 ## Citation
 
