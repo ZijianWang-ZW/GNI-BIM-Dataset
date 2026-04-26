@@ -7,7 +7,7 @@ links to other online IFC model sources we could find.
 
 ![TUM GNI BIM.project group 6 — paired architectural (left) and structural (right) IFC models](pic/group6.png)
 
-1) Dataset download [link](https://zenodo.org/records/19722012?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2NjEwNjM3LWNhY2ItNGNiYS04ZGUwLTEzZmJmZGRiYzMwZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhNDM2NWVmNWU3OTE1NDZjZjZkMGQ5ZmVkMTQ5NGE3OSJ9.eM0Fo795XM41Oa8UpzauSkGs6zFnA0_XtEpltzc_T658j0Cd3NkNVSi_jotpyKYdfYq7iZD_5IWhdSJwprx7_w)
+1) Dataset download [link](https://doi.org/10.5281/zenodo.19722011)
 
     **`IFC-models/2025_BIMfundamentals/`** — 208 single-discipline IFC of a specific shape building from the
     *BIM Fundamentals* master course (WS 2024/25).
