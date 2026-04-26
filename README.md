@@ -7,13 +7,18 @@ links to other online IFC model sources we could find.
 
 ![TUM GNI BIM.project group 6 — paired architectural (left) and structural (right) IFC models](pic/group6.png)
 
-- **`IFC-models/2025_BIMfundamentals/`** — 208 single-discipline IFC of a specific shape building from the
-  *BIM Fundamentals* master course (WS 2024/25).
-- **`IFC-models/2026_BIMprojects/`** — 16 IFC from the *BIM Project* master
-  course (WS 2025/26); 9 teams, 7 with paired architectural + structural
-  models of the same building.
-- **`code/`** — anonymization scripts.
-- **`other_online_BIM_model_resources.csv`** — 35 other online BIM sources.
+1) Dataset download link
+
+    **`IFC-models/2025_BIMfundamentals/`** — 208 single-discipline IFC of a specific shape building from the
+    *BIM Fundamentals* master course (WS 2024/25).
+  
+    **`IFC-models/2026_BIMprojects/`** — 16 IFC from the *BIM Project* master
+    course (WS 2025/26); 9 teams, 7 with paired architectural + structural
+    models of the same building.
+  
+2) **`code/`** — anonymization scripts.
+
+3) **`other_online_BIM_model_resources.csv`** — 35 other online BIM sources.
 
 We also open source the [IFC2StructuredData](https://github.com/ZijianWang-ZW/IFC2StructuredData), a tool that extracts BIM object attributes in csv and geometry in obj. 
 
