@@ -88,6 +88,7 @@ If you use this dataset or the accompanying code, please cite:
   year         = {2026},
   howpublished = {Technical University of Munich, Georg Nemetschek Institute
                   (GNI)},
+  doi = {https://doi.org/10.5281/zenodo.19722012},
   url         = {\url{https://github.com/ZijianWang-ZW/GNI-BIM-Dataset}}
 }
 ```
